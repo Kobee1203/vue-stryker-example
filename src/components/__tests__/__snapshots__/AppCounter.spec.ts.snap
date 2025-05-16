@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AppCounter > renders properly 1`] = `
+"<button data-v-84e281ac="">-</button>
+<span data-v-84e281ac="" class="count-value text-green-500">0</span>
+<button data-v-84e281ac="">+</button>"
+`;
